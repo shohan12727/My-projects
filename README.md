@@ -106,3 +106,19 @@
 
 - LivePage Link: https://skill-swap-0011.netlify.app/
 - Repo Link: https://github.com/shohan12727/skill-swap
+
+# Ticket Bari
+
+Admin Email: admin@gmail.com
+
+Admin Password: Pa$$w0rd!
+
+Vendor Email: vendor1@gmail.com
+
+Vendor Password: Pa$$w0rd!
+
+Live Site Link : https://ticket-bari-492a4.web.app/
+
+Github Repository ( server ) : https://github.com/shohan12727/TicketBari-server
+
+Github Repository ( client ) : https://github.com/shohan12727/TicketBari-client
