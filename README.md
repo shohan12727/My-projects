@@ -6,8 +6,7 @@
 # Webflow Agencies (b-12-a-1)
 
 - LivePage link: https://cheerful-haupia-4dfd77.netlify.app/
-- Repo Link : https://github.com/shohan12727/ph-a-1  
-
+- Repo Link : https://github.com/shohan12727/ph-a-1
 
 # Panda commerce
 
@@ -37,7 +36,7 @@
 # Flower Market (responsive & with tailwind) - b-12-ass-02
 
 - LivePage Link: https://adorable-kitsune-597b15.netlify.app/
-- Repo link :  https://github.com/shohan12727/B-12-A-02
+- Repo link : https://github.com/shohan12727/B-12-A-02
 
 # Tea House (responsive & with tailwind)
 
@@ -52,9 +51,11 @@
 # Green Earth project
 
 - LivePage Link: https://green-earth-001.netlify.app/
+
 ### Alternative link:
--  cloudfare: https://green-earth-001.pages.dev/
--  surge: https://green-earth-0011.surge.sh/ 
+
+- cloudfare: https://green-earth-001.pages.dev/
+- surge: https://green-earth-0011.surge.sh/
 - Repo link: https://github.com/shohan12727/ASS-06-Green-Earth
 
 # English janala project
@@ -65,7 +66,7 @@
 # All coutry details project
 
 - Livepage Link: https://all-country-001.netlify.app/
-- Repo Link: https://github.com/shohan12727/React-12/tree/main/rest-country 
+- Repo Link: https://github.com/shohan12727/React-12/tree/main/rest-country
 
 # Awesome bottle project (added local storage funtionality)
 
@@ -100,25 +101,22 @@
 # Dragon News
 
 - LivePage Link: https://dragon-news-01.netlify.app/category/1
-- Repo Link: https://github.com/shohan12727/React-12/tree/main/dragon-news-project 
+- Repo Link: https://github.com/shohan12727/React-12/tree/main/dragon-news-project
 
 # Skill Swap
 
 - LivePage Link: https://skill-swap-0011.netlify.app/
 - Repo Link: https://github.com/shohan12727/skill-swap
 
+# Home Nest
+
+- Client Repo: https://github.com/shohan12727/Home-Nest-Client
+- Server Repo: https://github.com/shohan12727/Home-Nest-server
+
+- Live Link: https://home-nest-7e180.web.app
+
 # Ticket Bari
 
-Admin Email: admin@gmail.com
-
-Admin Password: Pa$$w0rd!
-
-Vendor Email: vendor1@gmail.com
-
-Vendor Password: Pa$$w0rd!
-
-Live Site Link : https://ticket-bari-492a4.web.app/
-
-Github Repository ( server ) : https://github.com/shohan12727/TicketBari-server
-
-Github Repository ( client ) : https://github.com/shohan12727/TicketBari-client
+- Live Site Link : https://ticket-bari-492a4.web.app/
+- Github Repository ( server ) : https://github.com/shohan12727/TicketBari-server
+- Github Repository ( client ) : https://github.com/shohan12727/TicketBari-client
